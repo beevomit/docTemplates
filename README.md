@@ -12,5 +12,5 @@ Simple document templates mainly written in Markdown for use in project manageme
 ## Documentation
 * [Instructions Template](https://github.com/lotcom/docTemplates/blob/master/instructDocTemp.md) - Simple step-by-step or checklist based instructions template.
 
-### Third-Party External Recommended Resources
+## Third-Party (*External*) Recommended Resources
 * [The Task Progress Tracker](https://davidseah.com/node/the-task-progress-tracker/) - A simple project based to-do list (*PDF format*).
