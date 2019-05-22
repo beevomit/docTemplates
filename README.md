@@ -1,6 +1,6 @@
 [![GitHub issues](https://img.shields.io/github/issues/lotcom/docTemplates.svg)](https://github.com/lotcom/docTemplates/issues) [![GitHub stars](https://img.shields.io/github/stars/lotcom/docTemplates.svg)](https://github.com/lotcom/docTemplates/stargazers)
 
-# Lotcom Open Templates
+# Lotcom "Barely Sufficient" Templates
 Simple templates mainly written in Markdown for use in project management and documentation. All shared templates and files are licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/)
 
 ## Small to Medium Project Management Documents
