@@ -18,5 +18,3 @@ Simple templates mainly written in Markdown for use in project management and do
 ## Checklists
 * [Project Overview](https://github.com/lotcom/docTemplates/blob/master/Project_Overview.md) - High level project overview checklist.
 
-### Third-Party (*External*) Resources (_Separate Licensing!_)
-* [The Task Progress Tracker](https://davidseah.com/node/the-task-progress-tracker/) - A simple project based to-do list (*PDF format*).
