@@ -1,5 +1,6 @@
-[![GitHub forks](https://img.shields.io/github/forks/lotcom/docTemplates)](https://github.com/lotcom/docTemplates/network)
-[![GitHub stars](https://img.shields.io/github/stars/lotcom/docTemplates.svg)](https://github.com/lotcom/docTemplates/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/pullsystems/docTemplates)](https://github.com/pullsystems/docTemplates/network)
+[![GitHub stars](https://img.shields.io/github/stars/pullsystems/docTemplates)](https://github.com/pullsystems/docTemplates/stargazers)
+[![GitHub license](https://img.shields.io/github/license/pullsystems/docTemplates)](https://github.com/pullsystems/docTemplates/blob/master/LICENSE)
 
 # "Barely Sufficient" Templates
 Simple templates mainly written in Markdown for use in project management and documentation.
