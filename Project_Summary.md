@@ -30,7 +30,7 @@
 ## Assumptions:
 
 - List of assumtions outside the scope of the project.
-- Example: Contrator will provide tools and materials
+- Example: Contractor will provide tools and materials
 - [insert]
 
 ## Project Scope
