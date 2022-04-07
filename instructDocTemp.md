@@ -19,7 +19,7 @@ Each section should contain step-by-step instructions and/or a checklist of how 
 
 * [ ] User added to Ubuntu OpenLDAP Server
 
-Add visual adds if necessary.
+Add visual aids if necessary.
 ```mermaid
 flowchart LR
 	A["Nightly Scheduled Task at 5:30am"] --> B{Test for New Input Files};
