@@ -35,4 +35,4 @@ The reference area should be used to add any additional information or instructi
 
 (1) **Section Title: Subtitle** - Do not include hyphens (-) in user account names.
 
-"OpenLDAP Server: User and Group Management." Ubuntu, 8 Nov. 2016, [https://help.ubuntu.com/lts/serverguide/openldap-server.html](https://help.ubuntu.com/lts/serverguide/openldap-server.html).
+“LDAP Workstation Authentication.” n.d. Ubuntu. Accessed March 16, 2023. https://ubuntu.com/server/docs/service-ldap-usage.
