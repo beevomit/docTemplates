@@ -8,6 +8,7 @@ Simple templates mainly written in Markdown for use in project management and do
 ## Small to Medium Project Management Documents
 * [Project Summary](https://github.com/lotcom/docTemplates/blob/master/Project_Summary.md) - Template for a project summary including goals, risks, estimated costs, and closing checklist.
 * [Project Planning Summary](https://github.com/lotcom/docTemplates/blob/master/Project_Planning_Summary.md) - Plan each project component's budget, schedule, and responsibility.
+* [Project Budget Template](https://github.com/lotspaih/docTemplates/blob/master/Project_Budget_Template.md) - Project budget template for comparing projected and actual expenditures.
 * [Milestone Chart](https://github.com/lotcom/docTemplates/blob/master/Milestone_Chart.md) - Keep track of project progress by monitoring each project milestone.
 * [Risk Identification Chart](https://github.com/lotcom/docTemplates/blob/master/Risk_Identification_Chart.md) - Identify project risks and document possible mitigations to the project's quality, cost, and schedule. 
 * [Example Gantt Chart](https://github.com/lotspaih/docTemplates/blob/master/gantt_chart.md) - Plan each project component based on a time schedule and dependency. (_Requires [Mermaid](https://mermaid-js.github.io/mermaid/#/)_)
