@@ -1,6 +1,7 @@
 [![GitHub forks](https://img.shields.io/github/forks/pullsystems/docTemplates)](https://github.com/pullsystems/docTemplates/network)
 [![GitHub stars](https://img.shields.io/github/stars/pullsystems/docTemplates)](https://github.com/pullsystems/docTemplates/stargazers)
 [![GitHub license](https://img.shields.io/github/license/pullsystems/docTemplates)](https://github.com/pullsystems/docTemplates/blob/master/LICENSE)
+[![No Maintenance Intended](https://img.shields.io/badge/NoMaintenance-Intended-red)](http://unmaintained.tech/)
 
 # "Barely Sufficient" Templates
 Simple templates mainly written in Markdown for use in project management and documentation.
